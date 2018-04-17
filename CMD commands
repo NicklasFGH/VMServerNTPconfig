@@ -6,4 +6,6 @@ C:\>w32tm /config /reliable:yes
 
 C:\>net start w32time
 
+C:\>w32tm /resync
+
 C:\>w32tm /query /configuration
